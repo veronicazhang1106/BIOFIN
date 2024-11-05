@@ -1,0 +1,148 @@
+---
+title: "Nature-related Accounting Standards-Review"
+subtitle: "Proposed sections"
+author: "Veronica Zhang"
+date: today
+dateformat: long
+format: 
+  html:
+    theme: minty
+    self-contained: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+  docx: 
+    toc: false
+bibliography: BIOFIN.bib
+csl: elsevier-harvard.csl
+execute: 
+  eval: true
+  echo: true
+  output: true
+  warning: false
+  error: true
+  include: true
+---
+
+## Title
+
+A discussion of the landscape of nature related financial reporting standards and metrics 
+
+perspective: financial institutions
+
+
+## Nature-related financial disclosure frameworks
+
+To provides an overview of the key disclosure frameworks, highlighting the common trends, while noting divergences/convergences. 
+
+[ISSB S1 and S2](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/sustainability-pdf-collection/?language=en&issue-type=%2Fcontent%2Fcq%3Atags%2Fifrs%2Fproduction%2Fissue-type%2Fissued&year=2023&layer=%2Fcontent%2Fcq%3Atags%2Fifrs%2Fproduction%2Fstandard-layer%2Fbase)
+
+[TNFD Recommendations](https://tnfd.global/publication/recommendations-of-the-taskforce-on-nature-related-financial-disclosures/#publication-content)
+
+
+[UNEP FI Research](https://www.unepfi.org/publications/accountability-for-nature-comparison-of-nature-related-assessment-and-disclosure-frameworks-and-standards/)
+
+
+
+## Definition of Materiality (collaborate with Limerick)
+
+Financial materiality, impact materiality and double materiality 
+
+:::{.callout-note collapse="true"}
+***Double materiality*** refers to a company's obligation to assess two dimensions: its impact on the environment and society, and how environmental and societal factors, in turn, affect the company's operations and financial performance.
+
+***Impact materiality***
+
+According to ESRS, a sustainability matter is “material from an impact perspective when it pertains to
+the undertaking’s material actual or potential, positive or negative impacts on people or the environment over the short-, medium- or long-term.
+
+Impact materiality focuses on a company's most significant external impacts on key stakeholders. These impacts should be reported in the sustainability report, with a primary focus on informing external, non-financial stakeholders.
+
+***Financial materiality***
+
+A sustainability matter generates risks or opportunities that have a material influence, or could reasonably be expected to have a material influence, on the undertaking’s development, financial position, financial performance, cash flows, access to finance or cost of capital over the short-, medium- or long-term.
+
+Financial materiality considers a company’s most significant impacts inwards and should be presented in the annual report. It is specifically intended for investors, lenders and other creditors.
+
+:::
+
+### Journal articles: 
+
+@Aras2024 investigates the SDGs with ESG indicators through a double materiality perspective for 1888 companies from the OECD fnancial institutions. The study shows how commercial banks can identify and prioritize the SDGs and targets and how sustainable practices at the 
+corporate level can contribute to achieving these global goals by adopting a sound approach. 
+
+#### Benefits of double materiality
+
+@Martinez2016  analysts perceive sustainability disclosures on material issues as a signal of good performance in environmental and social issues, enhanced transparency and lower uncertainty resulting in more accurate forecasts. 
+
+@Grewal2021 material sustainability information is value-relevant and firm-specific
+
+#### Issues in applying double-materiality
+
+- Inadequate disclosure of the process of determining material sustainability brings into question the credibility of sustainability reports and can lead to an inaccurate portrayal of sustainability performance [@Machado2021]
+  +  Companies tend to disclose good performance, ignore poor performance, use sustainability reports to greenwash their actions and even mislead their stakeholders
+- Variation in the approach used by companies to apply the concept of materiality [@Moroney2016]
+- Firms lack skills to apply materiality to sustainability issues [@Guix2019]
+- Assessment of materiality favors short-term financial interests.  Companies tend to priorities business continuity issues including branding and marketing, acquisitions, financial tax policy. [@Jones2016]
+
+:::{.callout-note}
+## Stakeholder Engagement
+
+Stakeholder engagement in sustainable finance refers to the process by which financial institutions, companies, and investors interact with various stakeholders to understand their concerns, interests, and perspectives regarding sustainability and environmental, social, and governance (ESG) issues. This engagement is crucial for making informed decisions that align financial strategies and investments with broader societal and environmental goals. These stakeholders can include investors, employees, customers, regulators, local communities, suppliers, NGOs, and even governments.
+
+:::
+
+
+
+## Assurance Reporting (collaborate with Limerick)
+
+:::{.callout-note}
+## Assurance engagement
+
+Assurance engagement in auditing is a systematic and independent examination of financial information or other subject matter performed by auditors with the aim of assuring stakeholders. The primary objective is to enhance the credibility and reliability of the information being examined. In the context of auditing, assurance engagements go beyond verifying financial statements; they encompass a broader scope, including assessments of internal controls, risk management processes, and compliance with relevant laws and regulations.
+
+The aims of assurance engagements in auditing:
+
+Firstly, auditors seek to express an opinion on whether the financial statements present an accurate and fair view of the entity's financial position and performance. This opinion is crucial for users of financial statements, such as investors and creditors, who rely on it to make informed decisions.
+
+Secondly, assurance engagements in auditing aim to provide reasonable assurance that financial information is free from material misstatement due to fraud or error. 
+
+:::
+
+@Venter2024 review the recent literature on the assurance of Extended External Reporting and find out literature investigating the determinants and consequences of assurance.
+
+
+
+
+
+
+
+## Data avaliability
+
+Nature-related data collection issues
+
+using data from third party vendors
+
+linked with WP2-data and metrics
+
+
+
+## Compliance
+
+
+
+
+## Reference
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+---
+title: "BIOFIN WP5&6 Research Discussion"
+author: "Veronica Zhang"
+date: today
+date-format: long
+format: 
+  html:
+    theme: minty
+    self-contained: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+execute: 
+  eval: true
+  echo: true
+  output: true
+  warning: true
+  error: false
+  include: true
+---
+
+## Divestment and Acquisition as Nature Positive Strategies in the Food Sector
+
+To evaluate:
+
+- the role of divestment of brown assets, 
+  + [IMF-A Market for Brown Assets To Make Finance Green](https://www.elibrary.imf.org/view/journals/001/2023/011/article-A001-en.xml?ArticleTabs=fulltext)
+  
+  This paper proposes to develop a secondary market for “brown exposures” which allows banks to dispose more quickly of brown assets thereby increasing their capacity to finance green investments. Brown-Asset Based Securities (B-ABS) may expand the green funds managers' portfolios to attract additional investors. 
+  
+- M&amp;A of green businesses/suppliers, 
+- the implementation of NbS in greening core business
+- the contribution of divestiture to lowering brown activities in private sector or less regulated domains
+
+:::{.callout-note}
+## Resource
+
+[Divestment data analysis](https://www.investeurope.eu/research/activity-data/divestments/)
+
+[Divestiture-letting go to grow](https://www.accenture.com/us-en/insights/strategy/seizing-value-from-divestitures)
+
+Now, company leaders are putting more focus on natural synergies versus portfolio diversification, seeking to divest non-core assets or business units that no longer add shareholder value. 
+
+Offloading disadvantaged assets frees up capital for strategic initiatives and focuses management on critical KPIs
+
+[Divestiture-definition, reasons, examples](https://corporatefinanceinstitute.com/resources/valuation/divestiture-overview/)
+
+:::
+
+## CSRD/ESRS/TNFD actions/plans
+
+Around: 
+
+- Divestiture
+- Acquisitions
+- CAPEX on green solutions 
+  + whether CapEx demonstrates progressive alignment with a net zero target
+  + Green CapEx before and after CSRD/ESRS legislation (difference-in-difference) 
+  + [SDG aligned CAPEX](https://www.cfocoalition.org/blueprints/p2-2-1-capital-expenditure#:~:text=Capex%20are%20central%20in%20supporting,for%20the%20Sustainable%20Development%20Goals.)
+  + [Green Capex Report-Goldman Sachs](https://www.goldmansachs.com/pdfs/insights/pages/gs-research/gs-sustain-green-capex-whats-on-track-and-spare-capacity/report.pdf)
+
+:::{.text style="color: darkblue"}
+
+Data source: CapitalIQ pro, Bloomberg, Refinitiv
+
+:::
+
+## Environmental Impact Assessment (EIA), DO NO SIGNIFICANT HARM (DNSH)
+
+- can they be operationalised/integrated in CSRD and/or financial decisions?
+  + e.g. catchment regions such as ERNE/Shannon
+  
+:::{.callout-note}
+## Resource
+
+[EIA](https://www.daera-ni.gov.uk/articles/environmental-impact-assessment-eia)
+
+[Do No Significant Harm-explanation](https://www.spglobal.com/esg/insights/blog/unpacking-the-eu-taxonomy-s-do-no-significant-harm-provision)
+
+The six environmental objectives of the Taxonomy are: (1) climate change mitigation, (2) climate change adaptation, (3) sustainable use and protection of water and marine resources, (4) transition to a circular economy, (5) pollution prevention and control, and (6) protection and restoration of biodiversity and ecosystems.
+
+:::
+
+
+
+
+
+
+
+
+
+
+

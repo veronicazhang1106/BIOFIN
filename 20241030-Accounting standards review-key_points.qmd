@@ -1,0 +1,108 @@
+---
+title: "Nature-related accounting standards-follow up"
+author: "Veronica Zhang"
+date: today
+date-format: long
+format: 
+  html:
+    theme: minty
+    self-contained: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+execute: 
+  eval: true
+  echo: true
+  output: true
+  warning: true
+  error: false
+  include: true
+---
+
+## Nature-related financial disclosure standards review
+
+:::{.text style="color: orange; font-weight: bold; font-size: 1.5em"}
+Key points
+:::
+
+- Introduction
+  + Objective: Outline that the review focuses on how financial institutions respond to nature-related financial disclosure standards and the implications of these standards on their operations.
+
+- Overview of nature-related financial disclosure standards
+  + Background on standard frameworks, including TNFD, IFRS S1 and S2, ESRS, etc. 
+  + Key areas of disclsoure: the core components that institutions are expected to disclose, such as dependencies, impact, physical risk, transition risk, opportunities
+  
+- Implications for financial instutions
+  + Risk management
+    - Nature-related financial disclosure enhance risk management. Financial institutions need to adjust their frameworks to assess and mitigate risks related to ecosystem degradation. 
+    - Double materiality. 
+  
+:::{.callout-note collapse="true"}
+***Double materiality*** refers to a company's obligation to assess two dimensions: its impact on the environment and society, and how environmental and societal factors, in turn, affect the company's operations and financial performance.
+
+***Impact materiality***
+
+According to ESRS, a sustainability matter is “material from an impact perspective when it pertains to
+the undertaking’s material actual or potential, positive or negative impacts on people or the environment over the short-, medium- or long-term.
+
+Impact materiality focuses on a company's most significant external impacts on key stakeholders. These impacts should be reported in the sustainability report, with a primary focus on informing external, non-financial stakeholders.
+
+***Financial materiality***
+
+A sustainability matter generates risks or opportunities that have a material influence, or could reasonably be expected to have a material influence, on the undertaking’s development, financial position, financial performance, cash flows, access to finance or cost of capital over the short-, medium- or long-term.
+
+Financial materiality considers a company’s most significant impacts inwards and should be presented in the annual report. It is specifically intended for investors, lenders and other creditors.
+
+:::
+
+  + Investment strategy and portfolio alignment: how these standards may influence portfolio management decisions, e.g. shifting towards biodiversity-freindly projects, and away from brown industries
+  + Caplital allocation and stress testing?
+
+Institutions may develop nature-positive investment strategies that focus on long-term sustainability rather than short-term gains.
+
+Implementing nature-related stress testing to assess the resilience of investment portfolios against biodiversity loss scenarios. 
+
+- Regulatory and compliance
+  + Regulatory landscape: the evolvement of financial regulations and the regulagory pressure institutions face
+  + alignment of existing standards: converge of existing frameworks, such as IFRS S1 and S2, ESRS, TNFD, 
+
+- Challenges and barriers
+  + Data availablity and complexiy: lack of standardized and reliable data on nature-related risks disclosure, e.g. difficult to measure and quantify biodiversity and ecosystem impacts
+  + Short-term vs. Long-term Focus: Nature-related risks may manifest over long time horizons, which can conflict with the short-term focus of financial performance metrics. 
+
+- Future directions
+
+Discuss the potential for evolving standards, the TNFD and the IFRS, to shape the future of financial disclosure and risk management. 
+
+
+
+## Discussion
+
+- How pension funds develop their mandate with corporate response , fiduciary duty, legal duty? (from Tuesday WP5&amp;6 alignment discussion)
+- how we can align the work of BIOFIN-EU WP2 and WP6, for example regarding the regulatory framework. wp2 and wp6 meeting scheduled one of the following: 
+
+Tuesday November 5th, 15:00 CET
+
+Tuesday November 5th, 16:00 CET
+
+Wednesday November 6th, 10:00 CET
+
+Wednesday November 6th, 11:00 CET
+
+- WP monthly meeting: sometime in November, key points of updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

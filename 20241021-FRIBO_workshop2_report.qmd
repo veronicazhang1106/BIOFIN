@@ -1,0 +1,107 @@
+---
+title: "FRIBO workshop 2 report"
+date: 03/15/2024
+date-format: "MMMM D, YYYY"
+format: 
+  docx:
+    toc: false
+execute: 
+  eval: true
+  echo: true
+  output: true
+  warning: false
+  error: true
+  include: true
+---
+
+## Introduction
+
+**Speaker: Professor Paul Brereten**
+
+The Financial Rewards for Improved Biodiversity Outcomes (FRIBO) project is an one-year project aiming at mobilising private sector investment in biodiversity focused NBS, including identifying the opportunities and impediments for the development of biodiversity related pay for performance financial instruments. 
+
+Why are we doing this? There is 80-90% funding gap between the funds available and those required to address our environmental challenges.  Public funding will not suffice; funding from the private has to be mobilised. 
+
+Key messages from previous workshops: 
+- There is a need for some creative thinking to produce new win-win scenarios for all stakeholders. 
+- Pragmatic action-based approaches vs outcome-based. 
+- How to ensure the integrity of the intervention and how to ensure the integrity of the outcome
+- Mismatch between supply and demand for investment and nature restoration
+- Difference in scale-local environmental projects vs large financial instruments
+
+
+
+## The Nature programme-Integrating finance and biodiversity
+
+**Speaker: Dr. Shewly Choudhury (Associate Director, Natural Environment Research Council UK)**
+
+Dr. Choudhury addreesed the Key role for research and innovation in enabling integration of finance and nature materiality. 
+
+- Who we are? 
+  + UKRI UK's largest public funder of research, innovation and skills investing 
+  + Aim to harness the full power of the UK's research and innovation system to tackle large scale complex
+  + NERC is the leading public funder of environmental sciences
+  
+- Why? 
+  + The health of our planet and the financial system is inextricably intertwined. Finance has the power not only to change our economy, but also the way we live. 
+
+- What are the challenges for businesses and decision makers?
+  + The complexity of the phenomenon of biodiversity
+  + Awareness, understanding, identification and measurement
+  
+The UK is actively advancing its greening finance research portfolio to enhance the financial system’s role in protecting and restoring the natural environment. Central to this initiative is the UK Center for Greening Finance and Investment, which supports a £6.4 million economics of biodiversity research program. This program is designed with input from academia, business, and policy, focusing on key themes such as the integration of biodiversity values in decision-making and the resilience of natural capital.
+
+Building on this foundation, a new £7 million program aims to integrate finance and biodiversity for a nature-positive future. This phased initiative emphasizes cross-sectoral partnerships and user-led research priorities, with the ambition of fostering a multi-stakeholder community. In its second phase, the program has established a network of 17 project partners, including academic researchers from various fields, such as finance, biosciences, and data analytics.
+
+The goal is to develop solutions that embed biodiversity values into financial decision-making, showcasing examples of how economic, environmental, and societal benefits can be achieved through informed decisions. Notably, projects like the ESRC Place-Based Climate Action Network highlight the potential for accounting for the increasing benefits derived from scarce ecosystems. Through these collaborative efforts, the UK aims to pave the way for sustainable financial practices that respect and enhance biodiversity.
+
+
+
+## The Nature of Finance- Assessing the nature-related risks and opportunities for the Irish Financial Sector
+
+**Speaker: Thomas Ball (Director Sustainable Futures-KPMG Ireland)**
+
+The context of assessing nature-related risks for the Irish financial sector is crucial, especially in light of ongoing climate change challenges. As our understanding of these risks deepens, driven by various programs, media campaigns, and research initiatives, it becomes increasingly clear that the financial sector must recognize both the threats and opportunities presented by our natural environment.
+
+The Irish Sustainable Finance Centre, in collaboration with KPMG, has identified three key focus areas for understanding these risks: qualitative research, literature review, and scenario analysis, along with quantitative analysis to evaluate potential impacts. Collaborating experts from the European Central Bank (ECB), various banks, the London School of Economics (LSE), and the United Nations Development Programme (UNDP) have contributed to this growing body of knowledge.
+
+Qualitative research highlights that businesses have both impacts and dependencies on nature. The impacts include challenges such as invasive alien species, pollution, and greenhouse gas (GHG) emissions, while the dependence on natural resources is evident, particularly in water provision. Notably, lending to economic sectors shows that 43.8% of financial support is directed towards non-banking entities, emphasizing the interconnectedness of the financial sector and the economy.
+
+Tools and databases like ENCORE and EXIOBASE are instrumental in assessing sector impacts and dependencies on nature. For instance, an examination of the manufacturing sector reveals critical dependencies and impacts such as GHG emissions and various forms of water pollution. The headline findings indicate that 58% of Irish lending, amounting to €56 billion, is exposed to sectors highly dependent on ecosystem services. Furthermore, a staggering 94% of Irish lending, or €92 billion, is at risk from sectors that significantly impact nature.
+
+To better understand these risks, two case studies were conducted focusing on the manufacture of food, beverages, and tobacco products, as well as property investment and development within the commercial real estate sector. These subsectors were selected because they receive the largest share of lending outside the financial sector. The analysis for food and beverage manufacturing illustrates a detailed impact chain, considering factors such as the location of supply chains, water supply, and the volume of lending relative to the sector's economic importance in Ireland.
+
+The hazards associated with these industries, such as surface water pollution, highlight their sensitivity to the volume of water required for operations. Understanding the adaptive capacity of these sectors is crucial in mitigating risks.
+
+In terms of quantitative research, the analysis of insurance premiums written in Ireland reveals that the top five lines of business include fire and other property damage insurance. Notably, climate and nature risks are strongly correlated, with physical and transition risks stemming from climate change and environmental degradation having a significant impact on the financial landscape.
+
+For example, when considering flood insurance, the impact chain begins with hazard indicators like inundation depth, which are influenced by ecosystem services that buffer and attenuate mass flows. The extent and condition of these ecosystems further affect claims and payouts for policyholders, illustrating the complex interdependencies between natural systems and the financial sector.
+
+
+
+## Unlocking Finance for Nature: A Case Study
+
+**Speaker: Paul Harris (Bank of Ireland)**
+
+Banks are increasingly interested in finance related to nature for several reasons. Firstly, they are sensitive to various risks that can impact their operations and profitability. Secondly, banks are always on the lookout for new sources of income generation, and nature-based solutions present a promising avenue for investment.
+
+A significant challenge in this space is the funding gap for nature-based solutions, which requires private sector investments to increase fourfold by 2050. This translates to an annual investment of £563 billion to effectively address environmental needs.
+
+One pressing issue highlighted, for example, is that Coillte, a not-for-profit entity, lacks the necessary funds to create new woodlands. This raises key considerations around asset valuation and recognition. It is essential to determine what the asset is, where its value lies, and who can recognize that value. The value derived from nature includes benefits such as biodiversity, flood prevention, water purification, erosion avoidance, and carbon sequestration, while the price is often reflected in timber sales.
+
+Recognizing this value is crucial. For instance, carbon sequestration can be measured through initiatives like the Woodland Carbon Code, while biodiversity uplifts are acknowledged by organizations such as the United Nations. Additionally, amenity value is assessed by entities like the Central Statistics Office (CSO) in Ireland.
+
+The introduction of Woodland Nature Credits represents a groundbreaking transaction model, effectively securitizing ecosystem services. In this model, corporates do not own the land or trees; rather, they possess the environmental benefits that flow from these ecosystems. Each Woodland Nature Credit lasts for 25 years, allowing purchasers to utilize up to 100 years of benefits during that period. Importantly, funders do not receive repayment, which means that corporations can often realize tax benefits from what would otherwise be considered a non-performing asset. Moreover, the project cost per tonne of carbon is effectively fixed for the duration of 25 years, providing financial predictability.
+
+The interplay between biodiversity and climate change emphasizes the concept of double materiality. This principle highlights how climate change impacts financial materiality for companies, underlining the need for businesses to account for environmental risks.
+
+Key components for moving forward include identifying specific ecosystem services relevant to particular arenas and determining appropriate metrics for assessment. The conversation also explored the current policy and regulatory landscape surrounding private finance for biodiversity, noting challenges such as the limited space for certain outcomes, particularly in Northern Ireland. Ultimately, it was recognized that while some assets may hold value, they can also pose significant challenges that need to be addressed.
+
+
+
+
+
+
+
+
+
